@@ -8,7 +8,7 @@
 
 🛠 **Tech Stack**
 
-- Cloud Platform: AWS, Azure
+- Cloud Platform: AWS
 - IaC: Terraform
 - DevOps: GitHub, Docker, Kubernetes, Ansible, Jenkins
 - System: System design with Linux
